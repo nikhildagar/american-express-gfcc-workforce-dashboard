@@ -236,12 +236,10 @@ Data cleaning · Data transformation · Data modeling · DAX · KPI development 
 
 ## Author
 
-**Yash Dagar**
+**NIKHIL Dagar**
 Data Analyst · Power BI Developer · Business Intelligence Enthusiast
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: https://YOUR_PORTFOLIO
+
 
 ---
 
